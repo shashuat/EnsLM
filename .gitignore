@@ -1,3 +1,4 @@
 *.pkl
 *.csv
 *.keras
+*.DS_Store
